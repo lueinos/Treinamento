@@ -1,0 +1,15 @@
+{
+  "name": "io.cronapp.apps.treinamento",
+  "displayName": "Treinamento",
+  "version": "1.0.0",
+  "description": "Treinamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cronapi-js": "2.9.2-SP.17"
+  }
+}
