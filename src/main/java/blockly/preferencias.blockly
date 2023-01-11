@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><blockly audit="false" blocklyType="JAVA" bpmnAble="false" formTarget="src/main/webapp/views/logged/home.view.html" library="false" resourceType="JAVA" ruleDescription="preferencias" ruleName="preferencias" ruleSynchronous="false" ruleTimeout="300" ruleType="I" soap="false" swagger="false">
-  <metadata scale="1" scrollx="447.89999999999964" scrolly="18.399999999999835" target="Anb:u5+^,0vLkL9QIqn5"/>
+  <metadata scale="1" scrollx="480.9000000000002" scrolly="-54.60000000000002" target="Anb:u5+^,0vLkL9QIqn5"/>
   <block asynccall="false" colour="#995ba5" datasourcetype="" id="Anb:u5+^,0vLkL9QIqn5" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-350" y="130">
     <field customattributes="" name="NAME">cores</field>
     <comment h="80" pinned="false" w="160">preferencias</comment>

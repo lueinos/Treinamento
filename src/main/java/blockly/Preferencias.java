@@ -17,7 +17,7 @@ public static final int TIMEOUT = 300;
  * preferencias
  *
  * @author Luana Amaro Araujo
- * @since 09/01/2023 11:42:21
+ * @since 11/01/2023 09:57:23
  *
  */
 public static Var cores() throws Exception {

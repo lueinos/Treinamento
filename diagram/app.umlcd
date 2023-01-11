@@ -4777,66 +4777,10 @@
       ],
       "groupPositions": [
         {
-          "idCell": "09eb6df0-f243-42c0-9796-095bf13ee434",
-          "position": {
-            "x": 1126,
-            "y": 796
-          }
-        },
-        {
-          "idCell": "53b97115-f8a3-4221-9ce6-bad2672b8bd5",
-          "position": {
-            "x": 418,
-            "y": 594
-          }
-        },
-        {
-          "idCell": "d92238a3-a37d-4cc6-a543-d0687dc207cd",
-          "position": {
-            "x": 100,
-            "y": 34
-          }
-        },
-        {
-          "idCell": "4ae94b7d-af36-4992-a023-7433c79a2433",
-          "position": {
-            "x": 1406,
-            "y": 800
-          }
-        },
-        {
           "idCell": "2016ad54-a0f9-4337-ad10-694a48f0435c",
           "position": {
             "x": 684,
             "y": 26
-          }
-        },
-        {
-          "idCell": "dcc00b32-aa33-47bd-bc4d-91da88f25cbc",
-          "position": {
-            "x": 656,
-            "y": 312
-          }
-        },
-        {
-          "idCell": "4cbe47fe-4f4b-43e9-960b-4b5cc2633aef",
-          "position": {
-            "x": 404,
-            "y": 342
-          }
-        },
-        {
-          "idCell": "b194a533-61d6-4661-b9da-ff80ce2835f9",
-          "position": {
-            "x": 70,
-            "y": 240
-          }
-        },
-        {
-          "idCell": "e35a650f-29ee-4683-8c1c-5cc61a955ddf",
-          "position": {
-            "x": 668,
-            "y": 594
           }
         },
         {
@@ -4847,9 +4791,58 @@
           }
         },
         {
+          "idCell": "d92238a3-a37d-4cc6-a543-d0687dc207cd",
+          "position": {
+            "x": 100,
+            "y": 34
+          }
+        },
+        {
+          "idCell": "fabe0aea-c05d-44a4-a87c-2e2c0a97e994",
+          "position": {
+            "x": 382,
+            "y": 36
+          }
+        },
+        {
+          "idCell": "b194a533-61d6-4661-b9da-ff80ce2835f9",
+          "position": {
+            "x": 70,
+            "y": 240
+          }
+        },
+        {
+          "idCell": "09eb6df0-f243-42c0-9796-095bf13ee434",
+          "position": {
+            "x": 1126,
+            "y": 796
+          }
+        },
+        {
+          "idCell": "4cbe47fe-4f4b-43e9-960b-4b5cc2633aef",
+          "position": {
+            "x": 404,
+            "y": 342
+          }
+        },
+        {
           "idCell": "36b875ac-204a-4346-82e4-aabbd2c6b202",
           "position": {
             "x": 940,
+            "y": 594
+          }
+        },
+        {
+          "idCell": "4ae94b7d-af36-4992-a023-7433c79a2433",
+          "position": {
+            "x": 1406,
+            "y": 800
+          }
+        },
+        {
+          "idCell": "53b97115-f8a3-4221-9ce6-bad2672b8bd5",
+          "position": {
+            "x": 418,
             "y": 594
           }
         },
@@ -4861,10 +4854,10 @@
           }
         },
         {
-          "idCell": "fabe0aea-c05d-44a4-a87c-2e2c0a97e994",
+          "idCell": "e35a650f-29ee-4683-8c1c-5cc61a955ddf",
           "position": {
-            "x": 382,
-            "y": 36
+            "x": 668,
+            "y": 594
           }
         },
         {
@@ -4872,6 +4865,13 @@
           "position": {
             "x": 984,
             "y": 38
+          }
+        },
+        {
+          "idCell": "dcc00b32-aa33-47bd-bc4d-91da88f25cbc",
+          "position": {
+            "x": 656,
+            "y": 312
           }
         }
       ]

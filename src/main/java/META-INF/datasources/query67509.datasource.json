@@ -7,7 +7,7 @@
   "entitySimpleName": null,
   "entityFullName": null,
   "endpoint": {
-    "url": "https://rickandmortyapi.com/api/character/352",
+    "url": "https://rickandmortyapi.com/api/character/256",
     "GET": {
       "parameters": {}
     },

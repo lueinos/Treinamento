@@ -10,7 +10,7 @@ window.blockly.js.blockly.Alunos = window.blockly.js.blockly.Alunos || {};
  *
  *
  * @author Luana Amaro Araujo
- * @since 10/01/2023 11:31:17
+ * @since 10/01/2023 16:55:02
  *
  */
 window.blockly.js.blockly.Alunos.validador2Args = [];
@@ -36,7 +36,7 @@ window.blockly.js.blockly.Alunos.validador2 = async function() {
  *
  *
  * @author Luana Amaro Araujo
- * @since 10/01/2023 11:31:17
+ * @since 10/01/2023 16:55:02
  *
  */
 window.blockly.js.blockly.Alunos.gravarArgs = [];
